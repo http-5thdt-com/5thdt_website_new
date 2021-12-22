@@ -127,3 +127,23 @@ footer.footer h6 {
     font-size: 1.3rem !important;
     font-weight: 500;
 }
+
+
+.clint_icns_ftr{
+    margin-right: 10px;
+   
+}
+.ftr_btm{
+    margin-bottom: 10px;
+}
+.ft_icns{
+    background-color: white;
+    border-radius: 50%;
+    font-size: -7px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+    padding-top: 6px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
