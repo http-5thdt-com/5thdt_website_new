@@ -12,7 +12,7 @@
 * Hospitality
 * Managed Services
 
-Team Details
+<h3><b>Team Details</b></h3>
 * Rajiv Sharma - Founder (President)
 * Priya Niyogi - CoFounder (COO)
 * Sai Sashreek D - Project Head / Team Lead / Tech Head
