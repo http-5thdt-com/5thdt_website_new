@@ -30,7 +30,7 @@ body {
 }
 
 .banner {
-    background-color: #6e6e6e !important;
+    background-image: url("../../assets/images/backgrounds/bg-banner.svg");
     margin: 0 auto;
 }
 
@@ -40,8 +40,27 @@ body {
 }
 
 .banner p {
-    font-size: 1.9rem !important;
-    color: #fafafa;
+    font-size: 1.5rem !important;
+    color: #525252;
+    line-height: 125%;
+    display: block;
+    max-width: 100%;
+    text-align: justify;
+    margin: 1.4rem 1.8rem !important;
+    padding: 1.4rem 1.8rem !important;
+    opacity: 75%;
+    background-color: #a9a9a9;
+    height: 450px;
+}
+
+.banner img {
+    max-width: 100%;
+    width: 890px;
+    object-fit: contain;
+    background-color: #a9a9a9;
+    height: 450px;
+    margin-right: 120px !important;
+    margin-top: 6.3rem !important;
 }
 
 .domain h5 {
@@ -78,6 +97,10 @@ body {
 
 .project h5 {
     font-size: 0.8rem !important;
+}
+
+.project h3 {
+    font-size: 1.8rem !important;
 }
 
 .funky {
