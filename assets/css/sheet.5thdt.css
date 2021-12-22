@@ -31,6 +31,7 @@ body {
 
 .banner {
     background-image: url("../../assets/images/backgrounds/bg-banner.svg");
+    background-repeat: no-repeat !important;
     margin: 0 auto;
 }
 
@@ -41,7 +42,7 @@ body {
 
 .banner p {
     font-size: 1.5rem !important;
-    color: #525252;
+    color: #ffffff;
     line-height: 125%;
     display: block;
     max-width: 100%;
@@ -58,6 +59,7 @@ body {
     width: 890px;
     object-fit: contain;
     background-color: #a9a9a9;
+    opacity: 75%;
     height: 450px;
     margin-right: 120px !important;
     margin-top: 6.3rem !important;
