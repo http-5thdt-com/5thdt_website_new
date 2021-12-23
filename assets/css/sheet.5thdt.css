@@ -152,3 +152,134 @@ footer.footer h6 {
     font-size: 1.3rem !important;
     font-weight: 500;
 }
+
+
+.clint_icns_ftr{
+    margin-right: 10px;
+}
+.ft_icns{
+    background-color: white;
+    border-radius: 50%;
+    font-size: -7px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    padding-top: 10px;
+    padding-top: 6px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.ftr_btm{
+    margin-bottom: 10px;
+}
+.bnr_s{
+    margin: 20px;
+}
+
+
+
+
+.logo_bg{
+    background-color: white;
+    border-radius: 5px;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    filter: drop-shadow(0px 2px 8px rgba(99, 99, 99, 0.2));
+}
+.log_imgg{
+    width: 50px;
+    height: 50px;
+    margin-top: 6px;
+}
+.logo_txt{
+    font-size: 26px;
+}
+.right_logo{
+    margin-top: 30px;
+}
+.lg_ht{
+    height: 100px;
+}
+@media (min-width: 1400px){
+    .navbar-expand-xxl .navbar-toggler {
+        display: block !important;
+    }
+}
+.banner_bg{
+    max-width: 100%;
+    height: 90vh;
+    background-image: url('/assets/images/backgrounds/bg-banner.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.left_bg{
+    background-color: #ffffff;
+    opacity: 0.4;
+    margin-right: 25px;
+    margin-top: 100px;
+    height: 500px;
+    margin-left: 150px;
+
+}
+.left_txt{
+    padding: 10px !important;
+}
+.btm_txt{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 150px;
+}
+
+.left_txt_p{
+    padding-left: 20px !important;
+    font-size: 20px;
+    color: white;
+
+}
+.left_txt_p a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+.right_v{
+    background-color: #ffffff;
+    opacity: 0.4;
+    margin-left: 25px;
+    margin-top: 100px;
+    height: 500px;
+    margin-right: 150px;
+}
+.video_r{
+    padding: 50px !important;
+}
+
+.right_txt_p{
+    padding-left: 20px !important;
+    font-size: 20px;
+    color: white;
+
+}
+.right_txt_p a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+.btm_txt_r{
+    margin-top: 50px;
+    display: flex;
+    float: right;
+    margin-right: 150px;
+
+}
+@media only screen and (max-width: 425px) {
+    .banner_bg {
+        width: 100%;
+        height: 100vh;
+        background-image: url('/assets/images/backgrounds/bg-banner.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
